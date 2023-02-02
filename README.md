@@ -18,7 +18,7 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-creat
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html
 
 ### Evaluate Classification model thru Confusion Matrix
-1. Accuracy: The number of correct predictions (true positives + true negatives) divided by the total number of predictions. e.g. What proportion of diabetes predictions did the model get right?
-2. Precision: The number of the cases classified as positive that are actually positive: the number of true positives divided by (the number of true positives plus false positives). e.g. Out of all the patients that the model predicted as having diabetes, the percentage of time the model is correct.
-3. Recall: The fraction of positive cases correctly identified: the number of true positives divided by (the number of true positives plus false negatives). e.g. Out of all the patients who actually have diabetes, how many diabetic cases did the model identify correctly?
+1. Accuracy: The number of correct predictions (True Positives + True Negatives) divided by the total number of predictions. e.g. What proportion of diabetes predictions did the model get right?
+2. Precision: The fraction of the cases classified as positive that are actually positive. The number of True Positives divided by (the number of True Positives plus False Positives). e.g. Out of all the patients that the model predicted as having diabetes, the percentage of time the model is correct.
+3. Recall: The fraction of positive cases correctly identified. The number of True Positives divided by (the number of True Positives plus False Negatives). e.g. Out of all the patients who actually have diabetes, how many diabetic cases did the model identify correctly?
 4. F1 Score: An overall metric that essentially combines Precision and Recall.
