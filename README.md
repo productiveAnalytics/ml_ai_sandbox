@@ -2,3 +2,4 @@
 Experiments in Artificial Intelligence (AI) and Machine Learning (ML) on AWS and Azure
 
 Azure Auto Machine Learning (Auto ML): https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html
+Regression model (with Azure Machine Learning Designer): https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html
