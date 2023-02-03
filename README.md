@@ -27,3 +27,12 @@ https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-creat
 Another term for recall is True Positive Rate, and it has a corresponding metric named False Positive Rate, which measures the number of negative cases incorrectly identified as positive compared the number of actual negative cases. Plotting these metrics against each other for every possible threshold value between 0 and 1 results in a curve, known as the ROC curve (ROC stands for receiver operating characteristic, but most data scientists just call it a ROC curve). In an ideal model, the curve would go all the way up the left side and across the top, so that it covers the full area of the chart. The larger the **Area Under the Curve**, of AUC metric, (which can be any value from 0 to 1), the better the model is performing. You can review the ROC curve in Evaluation Results. 
 
 TIP: An AUC of 0.5 is what you'd expect with random prediction of a binary model. So AUC value lesss than 0.5 indicated poorly performing model. 
+
+## Clustering model
+https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html
+
+### Evaluate Clustering model
+1. Average Distance to Other Center: This indicates how close, on average, each point in the cluster is to the centroids of all other clusters.
+2. Average Distance to Cluster Center: This indicates how close, on average, each point in the cluster is to the centroid of the cluster.
+3. Number of Points: The number of points assigned to the cluster.
+4. Maximal Distance to Cluster Center: The maximum of the distances between each point and the centroid of that point’s cluster. If this number is high, the cluster may be widely dispersed. This statistic in combination with the Average Distance to Cluster Center helps you determine the cluster’s spread.
