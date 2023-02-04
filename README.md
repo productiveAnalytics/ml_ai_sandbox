@@ -3,7 +3,7 @@ Experiments in Artificial Intelligence (AI) and Machine Learning (ML) on AWS and
 
 Examples of Azure Services:
 1. PowerShell: https://github.com/MicrosoftLearning/AI-900-AIFundamentals
-2. Python: https://github.com/productiveAnalytics/ai-900
+2. Python: https://github.com/productiveAnalytics/ai-900 (or https://github.com/ACloudGuru/content-AI-900)
 
 ## Azure Auto Machine Learning (Auto ML)
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html
