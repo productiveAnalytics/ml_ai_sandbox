@@ -1,6 +1,8 @@
 # Sandbox for ML (Machine Learning) and AI (Artificial Intelligence)
 Experiments in Artificial Intelligence (AI) and Machine Learning (ML) on AWS and Azure
 
+Examples of Azure Services: https://github.com/MicrosoftLearning/AI-900-AIFundamentals
+
 ## Azure Auto Machine Learning (Auto ML)
 https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html
 
